@@ -1,0 +1,47 @@
+body {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  background-image: url("https://media.istockphoto.com/photos/dark-black-and-blue-grungy-wall-background-for-display-or-montage-of-picture-id1150477705?k=6&m=1150477705&s=612x612&w=0&h=q0f-napJKrSFE3ETwopLe6ETDRXk50zv7hctci_-j4A=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+html {
+  height: 100%;
+  margin: 0%;
+}
+table {
+  border: 2px white solid;
+  width: 360px;
+  height: 350px;
+}
+td {
+  border: 2px white solid;
+}
+input {
+  border: 4px white solid;
+  height: 50px;
+  width: 350px;
+  margin-bottom: 10px;
+  background-color: #bfc9ca;
+  color: black;
+  font-size: 30px;
+}
+h1 {
+  color: thistle;
+  font-size: 50px;
+}
+
+button {
+  height: 100%;
+  width: 100%;
+  opacity: 0.2;
+  background-color: #fef9e7;
+  color: black;
+  font-size: 30px;
+}
+button:hover {
+  background-color: #2c3e50;
+  color: #fef9e7;
+}
